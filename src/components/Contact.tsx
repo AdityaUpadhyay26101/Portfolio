@@ -43,17 +43,17 @@ export default function Contact() {
 
             <div className="space-y-4">
               <a
-                href="mailto:adityaupadhyay@example.com"
+                href="mailto:adity2610aupadhyay@gmail.com"
                 className="flex items-center space-x-3 text-slate-700 hover:text-teal-600 transition-colors"
               >
                 <div className="bg-teal-100 p-3 rounded-full">
                   <Mail size={20} className="text-teal-600" />
                 </div>
-                <span className="font-medium">adityaupadhyay@example.com</span>
+                <span className="font-medium">aditya2610upadhyay@gmail.com</span>
               </a>
 
               <a
-                href="https://github.com/adityaupadhyay"
+                href=" https://github.com/AdityaUpadhyay2610"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center space-x-3 text-slate-700 hover:text-teal-600 transition-colors"
@@ -65,7 +65,7 @@ export default function Contact() {
               </a>
 
               <a
-                href="https://linkedin.com/in/adityaupadhyay"
+                href="https://www.linkedin.com/in/aditya-upadhyay-1822622b7"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center space-x-3 text-slate-700 hover:text-teal-600 transition-colors"
